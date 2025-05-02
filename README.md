@@ -43,12 +43,13 @@ Color palette & typography follow **Material 3** guidelines; components were des
 
 ## 🚀 Running the demo
 
-```bash
+```
 # compile everything (requires Java 17+)
 javac -cp jackson-databind-2.13.0.jar *.java
 
 # run CLI showcase
 java  -cp .:jackson-databind-2.13.0.jar Main
+```
 
 # 🛣️ Roadmap
 Fix Figma-to-FXML exporter and scaffold JavaFX controllers.
